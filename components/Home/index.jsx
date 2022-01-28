@@ -30,7 +30,7 @@ function Home(props) {
     nullamVitaePurusA,
     viewOurWork1,
     viewPricing1,
-    buildingStellarWeb2,
+    buildingStellarWeb3,
     loremIpsumDolorSi1,
     viewOurWork2,
     viewPricing2,
@@ -75,7 +75,7 @@ function Home(props) {
     whatIsYourClassNamingConvention,
     x706766,
     httpsWwwPexelsComPhotoWomanWritingO,
-    buildingStellarWeb3,
+    buildingStellarWeb2,
     loremIpsumDolorSi4,
     sendInquiry,
     loremIpsumDolorSi5,
@@ -130,7 +130,7 @@ function Home(props) {
           <HomeHero>
             <HeroText1>
               <HeadlineBody1>
-                <BuildingStellarWeb1>{buildingStellarWeb2}</BuildingStellarWeb1>
+                <BuildingStellarWebsites>{buildingStellarWeb3}</BuildingStellarWebsites>
                 <LoremIpsumDolorSi>{loremIpsumDolorSi1}</LoremIpsumDolorSi>
               </HeadlineBody1>
               <ButtonContainer1>
@@ -309,7 +309,7 @@ function Home(props) {
               <HttpswwwpexelscomphotowomanWritingO src={httpsWwwPexelsComPhotoWomanWritingO} />
               <Background></Background>
               <Heading2>
-                <BuildingStellarWeb2>{buildingStellarWeb3}</BuildingStellarWeb2>
+                <BuildingStellarWeb1>{buildingStellarWeb2}</BuildingStellarWeb1>
                 <LoremIpsumDolorSi3>{loremIpsumDolorSi4}</LoremIpsumDolorSi3>
               </Heading2>
             </OverlapGroup9>
@@ -507,10 +507,10 @@ const HeadlineBody1 = styled.div`
   min-height: 302px;
 `;
 
-const BuildingStellarWeb1 = styled.div`
+const BuildingStellarWebsites = styled.div`
   ${Heading1}
   width: 582px;
-  min-height: 222px;
+  min-height: 148px;
   font-weight: 600;
   color: var(--white);
   line-height: 74px;
@@ -520,7 +520,7 @@ const LoremIpsumDolorSi = styled.p`
   ${Label2}
   width: 562px;
   min-height: 56px;
-  margin-top: 24px;
+  margin-top: 98px;
   opacity: 0.7;
   font-weight: 500;
   color: var(--white);
@@ -1429,7 +1429,7 @@ const Heading2 = styled.div`
   min-height: 334px;
 `;
 
-const BuildingStellarWeb2 = styled.div`
+const BuildingStellarWeb1 = styled.div`
   ${Heading1}
   width: 464px;
   min-height: 225px;
